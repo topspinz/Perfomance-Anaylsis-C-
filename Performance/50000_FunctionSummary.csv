@@ -1,0 +1,8 @@
+Function Name,Number of Calls,Elapsed Inclusive Time %,Elapsed Exclusive Time %,Avg Elapsed Inclusive Time,Avg Elapsed Exclusive Time,Module Name,
+"Algorithmn_Assignment.Program.SlowSort(int32[],int32)",20,99.36,99.36,"1,559.24","1,559.24","Algorithmn Assignment.exe",
+"Algorithmn_Assignment.Program.Partition(int32[],int32,int32)","666,617",0.24,0.24,0.00,0.00,"Algorithmn Assignment.exe",
+"Algorithmn_Assignment.Program.QuickSort(int32[],int32,int32)","1,333,254",0.46,0.23,7.30,0.00,"Algorithmn Assignment.exe",
+"System.Random.Next(int32,int32)","1,000,000",0.11,0.11,0.00,0.00,"mscorlib.dll",
+"Algorithmn_Assignment.Program.Main(string[])",1,100.00,0.06,"31,385.16",18.31,"Algorithmn Assignment.exe",
+"Algorithmn_Assignment.Program.FastSort(int32[],int32)",20,0.47,0.00,7.31,0.01,"Algorithmn Assignment.exe",
+"System.Random..ctor()",1,0.00,0.00,0.01,0.01,"mscorlib.dll",

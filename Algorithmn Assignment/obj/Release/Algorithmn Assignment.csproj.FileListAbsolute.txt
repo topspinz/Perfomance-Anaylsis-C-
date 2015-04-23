@@ -1,0 +1,5 @@
+c:\users\matthew\documents\visual studio 2013\Projects\Algorithmn Assignment\Algorithmn Assignment\bin\Release\Algorithmn Assignment.exe.config
+c:\users\matthew\documents\visual studio 2013\Projects\Algorithmn Assignment\Algorithmn Assignment\bin\Release\Algorithmn Assignment.exe
+c:\users\matthew\documents\visual studio 2013\Projects\Algorithmn Assignment\Algorithmn Assignment\bin\Release\Algorithmn Assignment.pdb
+c:\users\matthew\documents\visual studio 2013\Projects\Algorithmn Assignment\Algorithmn Assignment\obj\Release\Algorithmn Assignment.exe
+c:\users\matthew\documents\visual studio 2013\Projects\Algorithmn Assignment\Algorithmn Assignment\obj\Release\Algorithmn Assignment.pdb

@@ -1,0 +1,12 @@
+c:\users\matthew\documents\visual studio 2013\Projects\Algorithmn Assignment\Algorithmn Assignment\bin\Debug\Algorithmn Assignment.exe.config
+c:\users\matthew\documents\visual studio 2013\Projects\Algorithmn Assignment\Algorithmn Assignment\obj\Debug\Algorithmn Assignment.csprojResolveAssemblyReference.cache
+c:\users\matthew\documents\visual studio 2013\Projects\Algorithmn Assignment\Algorithmn Assignment\bin\Debug\Algorithmn Assignment.exe
+c:\users\matthew\documents\visual studio 2013\Projects\Algorithmn Assignment\Algorithmn Assignment\bin\Debug\Algorithmn Assignment.pdb
+c:\users\matthew\documents\visual studio 2013\Projects\Algorithmn Assignment\Algorithmn Assignment\obj\Debug\Algorithmn Assignment.exe
+c:\users\matthew\documents\visual studio 2013\Projects\Algorithmn Assignment\Algorithmn Assignment\obj\Debug\Algorithmn Assignment.pdb
+C:\Users\matthew\Documents\Visual Studio 2013\Projects\a1\Algorithmn Assignment\bin\Debug\Algorithmn Assignment.exe.config
+C:\Users\matthew\Documents\Visual Studio 2013\Projects\a1\Algorithmn Assignment\obj\Debug\Algorithmn Assignment.exe
+C:\Users\matthew\Documents\Visual Studio 2013\Projects\a1\Algorithmn Assignment\obj\Debug\Algorithmn Assignment.pdb
+C:\Users\matthew\Documents\Visual Studio 2013\Projects\a1\Algorithmn Assignment\bin\Debug\Algorithmn Assignment.exe
+C:\Users\matthew\Documents\Visual Studio 2013\Projects\a1\Algorithmn Assignment\bin\Debug\Algorithmn Assignment.pdb
+C:\Users\matthew\Documents\Visual Studio 2013\Projects\a1\Algorithmn Assignment\obj\Debug\Algorithmn Assignment.csprojResolveAssemblyReference.cache

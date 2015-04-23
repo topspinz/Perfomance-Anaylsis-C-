@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithmn Assignment", "Algorithmn Assignment\Algorithmn Assignment.csproj", "{F43D34FA-DFE0-474D-A812-5D8A9311FBB7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{27DEAA06-27F3-46B0-AD9D-48A7E81FDD63}"
+	ProjectSection(SolutionItems) = preProject
+		Performance1.psess = Performance1.psess
+		Performance2.psess = Performance2.psess
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Performance", "Performance", "{A6879805-1880-454D-85E5-C12CDBB5738C}"
+	ProjectSection(SolutionItems) = preProject
+		10.vsps = 10.vsps
+		Performance\100.vsps = Performance\100.vsps
+		Performance\1000.vsps = Performance\1000.vsps
+		Performance\10000.vsps = Performance\10000.vsps
+		Performance\100000.vsps = Performance\100000.vsps
+		Performance\1000000.vsps = Performance\1000000.vsps
+		20.vsps = 20.vsps
+		Performance\200.vsps = Performance\200.vsps
+		Performance\2000.vsps = Performance\2000.vsps
+		Performance\20000.vsps = Performance\20000.vsps
+		Performance\200000.vsps = Performance\200000.vsps
+		Performance\50.vsps = Performance\50.vsps
+		Performance\500.vsps = Performance\500.vsps
+		Performance\5000.vsps = Performance\5000.vsps
+		Performance\50000.vsps = Performance\50000.vsps
+		Performance\500000.vsps = Performance\500000.vsps
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F43D34FA-DFE0-474D-A812-5D8A9311FBB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F43D34FA-DFE0-474D-A812-5D8A9311FBB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F43D34FA-DFE0-474D-A812-5D8A9311FBB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F43D34FA-DFE0-474D-A812-5D8A9311FBB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
